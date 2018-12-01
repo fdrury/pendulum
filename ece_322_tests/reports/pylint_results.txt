@@ -1,0 +1,1099 @@
+************* Module pendulum.constants
+pendulum/constants.py:1:0: C0111: Missing module docstring (missing-docstring)
+************* Module pendulum.duration
+pendulum/duration.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/duration.py:19:0: C0103: Argument name "a" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:19:0: C0103: Argument name "b" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:27:4: C0103: Variable name "q" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:27:7: C0103: Variable name "r" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:31:4: C0103: Variable name "r" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:34:8: C0103: Variable name "q" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:142:12: C0103: Attribute name "_h" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:152:12: C0103: Attribute name "_i" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:165:12: C0103: Attribute name "_s" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:46:4: C0103: Class attribute name "_y" doesn't conform to '([A-Za-z_][A-Za-z0-9_]{2,40}|(__.*__))$' pattern (invalid-name)
+pendulum/duration.py:47:4: C0103: Class attribute name "_m" doesn't conform to '([A-Za-z_][A-Za-z0-9_]{2,40}|(__.*__))$' pattern (invalid-name)
+pendulum/duration.py:48:4: C0103: Class attribute name "_w" doesn't conform to '([A-Za-z_][A-Za-z0-9_]{2,40}|(__.*__))$' pattern (invalid-name)
+pendulum/duration.py:49:4: C0103: Class attribute name "_d" doesn't conform to '([A-Za-z_][A-Za-z0-9_]{2,40}|(__.*__))$' pattern (invalid-name)
+pendulum/duration.py:50:4: C0103: Class attribute name "_h" doesn't conform to '([A-Za-z_][A-Za-z0-9_]{2,40}|(__.*__))$' pattern (invalid-name)
+pendulum/duration.py:51:4: C0103: Class attribute name "_i" doesn't conform to '([A-Za-z_][A-Za-z0-9_]{2,40}|(__.*__))$' pattern (invalid-name)
+pendulum/duration.py:52:4: C0103: Class attribute name "_s" doesn't conform to '([A-Za-z_][A-Za-z0-9_]{2,40}|(__.*__))$' pattern (invalid-name)
+pendulum/duration.py:55:4: R0913: Too many arguments (10/5) (too-many-arguments)
+pendulum/duration.py:77:8: C0103: Variable name "m" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:79:12: C0103: Variable name "m" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:81:8: W0212: Access to a protected member _microseconds of a client class (protected-access)
+pendulum/duration.py:82:8: W0212: Access to a protected member _seconds of a client class (protected-access)
+pendulum/duration.py:85:8: W0212: Access to a protected member _days of a client class (protected-access)
+pendulum/duration.py:86:8: W0212: Access to a protected member _remaining_days of a client class (protected-access)
+pendulum/duration.py:87:8: W0212: Access to a protected member _weeks of a client class (protected-access)
+pendulum/duration.py:88:8: W0212: Access to a protected member _months of a client class (protected-access)
+pendulum/duration.py:89:8: W0212: Access to a protected member _years of a client class (protected-access)
+pendulum/duration.py:139:4: C0111: Missing method docstring (missing-docstring)
+pendulum/duration.py:149:4: C0111: Missing method docstring (missing-docstring)
+pendulum/duration.py:163:4: C0111: Missing method docstring (missing-docstring)
+pendulum/duration.py:175:4: C0111: Missing method docstring (missing-docstring)
+pendulum/duration.py:235:12: C0103: Variable name "us" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:325:12: C0103: Variable name "a" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:325:15: C0103: Variable name "b" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:339:27: W0212: Access to a protected member _to_microseconds of a client class (protected-access)
+pendulum/duration.py:333:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+pendulum/duration.py:359:26: W0212: Access to a protected member _to_microseconds of a client class (protected-access)
+pendulum/duration.py:374:12: C0103: Variable name "a" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:374:15: C0103: Variable name "b" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:353:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+pendulum/duration.py:388:12: C0103: Variable name "r" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:388:42: W0212: Access to a protected member _to_microseconds of a client class (protected-access)
+pendulum/duration.py:396:12: C0103: Variable name "q" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:396:15: C0103: Variable name "r" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/duration.py:396:51: W0212: Access to a protected member _to_microseconds of a client class (protected-access)
+pendulum/duration.py:39:0: R0904: Too many public methods (23/20) (too-many-public-methods)
+pendulum/duration.py:415:4: R0913: Too many arguments (10/5) (too-many-arguments)
+pendulum/duration.py:441:8: W0212: Access to a protected member _total of a client class (protected-access)
+pendulum/duration.py:442:20: W0212: Access to a protected member _total of a client class (protected-access)
+pendulum/duration.py:444:8: W0212: Access to a protected member _microseconds of a client class (protected-access)
+pendulum/duration.py:445:8: W0212: Access to a protected member _seconds of a client class (protected-access)
+pendulum/duration.py:448:8: W0212: Access to a protected member _days of a client class (protected-access)
+pendulum/duration.py:449:8: W0212: Access to a protected member _remaining_days of a client class (protected-access)
+pendulum/duration.py:450:8: W0212: Access to a protected member _weeks of a client class (protected-access)
+pendulum/duration.py:451:8: W0212: Access to a protected member _months of a client class (protected-access)
+pendulum/duration.py:452:8: W0212: Access to a protected member _years of a client class (protected-access)
+pendulum/duration.py:6:0: C0411: standard import "from datetime import timedelta" should be placed before "import pendulum" (wrong-import-order)
+************* Module pendulum.exceptions
+pendulum/exceptions.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/exceptions.py:1:0: W0611: Unused ParserError imported from parsing.exceptions (unused-import)
+************* Module pendulum.helpers
+pendulum/helpers.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/helpers.py:37:0: C0103: Constant name "difference_formatter" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/helpers.py:40:0: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/helpers.py:40:0: R0913: Too many arguments (9/5) (too-many-arguments)
+pendulum/helpers.py:65:8: C0103: Variable name "s" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/helpers.py:71:8: C0103: Variable name "s" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/helpers.py:77:8: C0103: Variable name "s" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/helpers.py:83:8: C0103: Variable name "s" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/helpers.py:89:8: C0103: Variable name "s" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/helpers.py:119:51: W0621: Redefining name 'locale' from outer scope (line 154) (redefined-outer-name)
+pendulum/helpers.py:126:0: C0103: Argument name "x" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/helpers.py:134:0: C0111: Missing function docstring (missing-docstring)
+pendulum/helpers.py:143:4: W0212: Access to a protected member _TEST_NOW of a client class (protected-access)
+pendulum/helpers.py:147:11: W0212: Access to a protected member _TEST_NOW of a client class (protected-access)
+pendulum/helpers.py:151:11: W0212: Access to a protected member _TEST_NOW of a client class (protected-access)
+pendulum/helpers.py:161:4: W0212: Access to a protected member _LOCALE of a client class (protected-access)
+pendulum/helpers.py:165:11: W0212: Access to a protected member _LOCALE of a client class (protected-access)
+pendulum/helpers.py:172:4: W0212: Access to a protected member _WEEK_STARTS_AT of a client class (protected-access)
+pendulum/helpers.py:179:4: W0212: Access to a protected member _WEEK_ENDS_AT of a client class (protected-access)
+pendulum/helpers.py:12:4: W0611: Unused local_time imported from _extensions._helpers (unused-import)
+pendulum/helpers.py:12:4: W0611: Unused precise_diff imported from _extensions._helpers (unused-import)
+pendulum/helpers.py:12:4: W0611: Unused is_long_year imported from _extensions._helpers (unused-import)
+pendulum/helpers.py:12:4: W0611: Unused week_day imported from _extensions._helpers (unused-import)
+pendulum/helpers.py:12:4: W0611: Unused days_in_year imported from _extensions._helpers (unused-import)
+pendulum/helpers.py:12:4: W0611: Unused timestamp imported from _extensions._helpers (unused-import)
+pendulum/helpers.py:5:0: C0411: standard import "from math import copysign" should be placed before "import pendulum" (wrong-import-order)
+pendulum/helpers.py:6:0: C0411: standard import "from datetime import datetime, date, timedelta" should be placed before "import pendulum" (wrong-import-order)
+pendulum/helpers.py:7:0: C0411: standard import "from contextlib import contextmanager" should be placed before "import pendulum" (wrong-import-order)
+pendulum/helpers.py:8:0: C0411: standard import "from typing import Union" should be placed before "import pendulum" (wrong-import-order)
+************* Module pendulum.date
+pendulum/date.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/date.py:29:0: C0111: Missing class docstring (missing-docstring)
+pendulum/date.py:189:4: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:199:4: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:210:19: W0612: Unused variable 'dt1' (unused-variable)
+pendulum/date.py:234:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:315:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:321:4: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:321:28: W0622: Redefining built-in 'abs' (redefined-builtin)
+pendulum/date.py:515:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:517:31: W0212: Access to a protected member _WEEK_STARTS_AT of a client class (protected-access)
+pendulum/date.py:518:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:518:31: W0212: Access to a protected member _WEEK_STARTS_AT of a client class (protected-access)
+pendulum/date.py:528:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:530:31: W0212: Access to a protected member _WEEK_ENDS_AT of a client class (protected-access)
+pendulum/date.py:531:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:531:27: W0212: Access to a protected member _WEEK_ENDS_AT of a client class (protected-access)
+pendulum/date.py:553:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:555:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:577:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:579:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:647:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:668:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:695:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:728:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:731:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:730:12: W0612: Unused variable 'i' (unused-variable)
+pendulum/date.py:783:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:786:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:788:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:787:12: W0612: Unused variable 'i' (unused-variable)
+pendulum/date.py:838:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:841:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:840:12: W0612: Unused variable 'i' (unused-variable)
+pendulum/date.py:848:4: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:870:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:876:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/date.py:29:0: R0904: Too many public methods (34/20) (too-many-public-methods)
+pendulum/date.py:8:0: C0411: standard import "from datetime import date, timedelta" should be placed before "import pendulum" (wrong-import-order)
+************* Module pendulum
+pendulum/__init__.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/__init__.py:67:0: C0103: Constant name "_formatter" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/__init__.py:100:0: C0103: Argument name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:100:0: R0913: Too many arguments (9/5) (too-many-arguments)
+pendulum/__init__.py:118:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:120:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:122:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:137:0: R0913: Too many arguments (7/5) (too-many-arguments)
+pendulum/__init__.py:148:0: R0913: Too many arguments (7/5) (too-many-arguments)
+pendulum/__init__.py:171:0: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:171:0: C0103: Argument name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:201:0: C0103: Argument name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:215:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:217:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:219:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:221:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:226:0: C0103: Argument name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:233:0: C0103: Argument name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:240:0: C0103: Argument name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:247:0: C0103: Argument name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:251:4: W0621: Redefining name 'locale' from outer scope (line 22) (redefined-outer-name)
+pendulum/__init__.py:263:0: C0103: Argument name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:269:4: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:271:4: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:276:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/__init__.py:281:0: R0913: Too many arguments (9/5) (too-many-arguments)
+************* Module pendulum.parser
+pendulum/parser.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/parser.py:63:16: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/parser.py:79:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/parser.py:23:0: R0911: Too many return statements (9/6) (too-many-return-statements)
+pendulum/parser.py:4:0: C0411: standard import "import datetime" should be placed before "import pendulum" (wrong-import-order)
+************* Module pendulum.__version__
+pendulum/__version__.py:1:0: C0111: Missing module docstring (missing-docstring)
+************* Module pendulum.period
+pendulum/period.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/period.py:22:4: W0222: Signature differs from overridden '__new__' method (signature-differs)
+pendulum/period.py:22:4: R0912: Too many branches (14/12) (too-many-branches)
+pendulum/period.py:271:12: C0103: Variable name "us" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/period.py:276:4: C0111: Missing method docstring (missing-docstring)
+pendulum/period.py:278:8: C0103: Variable name "op" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/period.py:281:12: C0103: Variable name "op" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/period.py:353:8: C0103: Variable name "td" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/period.py:357:4: W0221: Parameters differ from overridden '_getstate' method (arguments-differ)
+pendulum/period.py:357:24: W0613: Unused argument 'protocol' (unused-argument)
+pendulum/period.py:378:12: W0212: Access to a protected member _absolute of a client class (protected-access)
+pendulum/period.py:6:0: C0411: standard import "from datetime import datetime, date, timedelta" should be placed before "import pendulum" (wrong-import-order)
+************* Module pendulum.formatting.difference_formatter
+pendulum/formatting/difference_formatter.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/formatting/difference_formatter.py:6:0: R0205: Class 'DifferenceFormatter' inherits from object, can be safely removed from bases in python3 (useless-object-inheritance)
+pendulum/formatting/difference_formatter.py:14:4: R0912: Too many branches (36/12) (too-many-branches)
+pendulum/formatting/difference_formatter.py:14:4: R0915: Too many statements (85/50) (too-many-statements)
+************* Module pendulum.formatting
+pendulum/formatting/__init__.py:1:0: C0111: Missing module docstring (missing-docstring)
+************* Module pendulum.time
+pendulum/time.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/time.py:17:4: W0107: Unnecessary pass statement (unnecessary-pass)
+pendulum/time.py:20:8: C0103: Variable name "us" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/time.py:22:12: C0103: Variable name "us" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/time.py:193:4: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/time.py:193:28: W0622: Redefining built-in 'abs' (redefined-builtin)
+pendulum/time.py:248:4: W0221: Parameters differ from overridden 'replace' method (arguments-differ)
+pendulum/time.py:248:4: R0913: Too many arguments (6/5) (too-many-arguments)
+pendulum/time.py:259:8: C0103: Variable name "t" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/time.py:268:8: C0103: Variable name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/time.py:267:25: W0613: Unused argument 'protocol' (unused-argument)
+pendulum/time.py:5:0: C0411: standard import "from datetime import time, timedelta" should be placed before "import pendulum" (wrong-import-order)
+************* Module pendulum.datetime
+pendulum/datetime.py:1:0: C0302: Too many lines in module (1555/1000) (too-many-lines)
+pendulum/datetime.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/datetime.py:41:0: C0111: Missing class docstring (missing-docstring)
+pendulum/datetime.py:75:8: W0222: Signature differs from overridden '__new__' method (signature-differs)
+pendulum/datetime.py:75:8: R0913: Too many arguments (10/5) (too-many-arguments)
+pendulum/datetime.py:91:12: W0212: Access to a protected member _fold of a client class (protected-access)
+pendulum/datetime.py:114:4: W0221: Parameters differ from overridden 'strptime' method (arguments-differ)
+pendulum/datetime.py:119:4: W0221: Parameters differ from overridden 'set' method (arguments-differ)
+pendulum/datetime.py:119:4: R0913: Too many arguments (9/5) (too-many-arguments)
+pendulum/datetime.py:158:12: R1705: Unnecessary "else" after "return" (no-else-return)
+pendulum/datetime.py:159:16: C0103: Variable name "s" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:168:16: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:185:4: C0111: Missing method docstring (missing-docstring)
+pendulum/datetime.py:188:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:212:4: C0111: Missing method docstring (missing-docstring)
+pendulum/datetime.py:212:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+pendulum/datetime.py:219:4: C0103: Attribute name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:223:4: C0111: Missing method docstring (missing-docstring)
+pendulum/datetime.py:224:8: C0103: Variable name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:267:4: C0103: Method name "on" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:284:4: C0103: Method name "at" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:306:4: C0103: Argument name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:314:4: C0103: Argument name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:464:8: C0103: Variable name "us" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:466:12: C0103: Variable name "us" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:488:4: W0221: Parameters differ from overridden 'closest' method (arguments-differ)
+pendulum/datetime.py:499:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/datetime.py:489:8: W0611: Unused reduce imported from functools (unused-import)
+pendulum/datetime.py:507:4: W0221: Parameters differ from overridden 'farthest' method (arguments-differ)
+pendulum/datetime.py:518:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/datetime.py:508:8: W0611: Unused reduce imported from functools (unused-import)
+pendulum/datetime.py:585:4: W0221: Parameters differ from overridden 'add' method (arguments-differ)
+pendulum/datetime.py:585:4: R0913: Too many arguments (9/5) (too-many-arguments)
+pendulum/datetime.py:620:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:644:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:655:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:669:4: W0221: Parameters differ from overridden 'subtract' method (arguments-differ)
+pendulum/datetime.py:669:4: R0913: Too many arguments (9/5) (too-many-arguments)
+pendulum/datetime.py:729:8: R1705: Unnecessary "elif" after "return" (no-else-return)
+pendulum/datetime.py:774:28: W0622: Redefining built-in 'abs' (redefined-builtin)
+pendulum/datetime.py:1023:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1025:31: W0212: Access to a protected member _WEEK_STARTS_AT of a client class (protected-access)
+pendulum/datetime.py:1026:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1026:31: W0212: Access to a protected member _WEEK_STARTS_AT of a client class (protected-access)
+pendulum/datetime.py:1037:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1039:31: W0212: Access to a protected member _WEEK_ENDS_AT of a client class (protected-access)
+pendulum/datetime.py:1040:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1040:27: W0212: Access to a protected member _WEEK_ENDS_AT of a client class (protected-access)
+pendulum/datetime.py:1044:4: W0221: Parameters differ from overridden 'next' method (arguments-differ)
+pendulum/datetime.py:1066:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1068:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1070:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1072:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1076:4: W0221: Parameters differ from overridden 'previous' method (arguments-differ)
+pendulum/datetime.py:1098:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1100:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1102:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1104:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1172:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1193:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1220:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1253:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1256:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1255:12: W0612: Unused variable 'i' (unused-variable)
+pendulum/datetime.py:1308:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1311:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1313:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1312:12: W0612: Unused variable 'i' (unused-variable)
+pendulum/datetime.py:1363:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1366:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:1365:12: W0612: Unused variable 'i' (unused-variable)
+pendulum/datetime.py:1457:4: W0221: Parameters differ from overridden 'combine' method (arguments-differ)
+pendulum/datetime.py:1463:4: W0221: Parameters differ from overridden 'replace' method (arguments-differ)
+pendulum/datetime.py:1463:4: R0913: Too many arguments (10/5) (too-many-arguments)
+pendulum/datetime.py:1531:4: W0221: Parameters differ from overridden '_cmp' method (arguments-differ)
+pendulum/datetime.py:1539:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/datetime.py:41:0: R0904: Too many public methods (65/20) (too-many-public-methods)
+pendulum/datetime.py:9:0: C0411: standard import "from typing import Union" should be placed before "import pendulum" (wrong-import-order)
+************* Module pendulum.formatting.formatter
+pendulum/formatting/formatter.py:14:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:15:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:15:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:16:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:17:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:18:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:19:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:19:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:20:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:21:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:22:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:23:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:23:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:24:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:24:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:25:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:26:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:27:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:27:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:27:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:27:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:28:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:28:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:28:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:28:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:29:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:29:0: W1401: Anomalous backslash in string: '\.'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:29:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:33:0: W1401: Anomalous backslash in string: '\/'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:33:0: W1401: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:41:0: W1401: Anomalous backslash in string: '\['. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:41:0: W1401: Anomalous backslash in string: '\['. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:41:0: W1401: Anomalous backslash in string: '\]'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:41:0: W1401: Anomalous backslash in string: '\('. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:67:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:607:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/formatting/formatter.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/formatting/formatter.py:38:0: C0111: Missing class docstring (missing-docstring)
+pendulum/formatting/formatter.py:191:16: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:192:14: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:193:13: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:196:14: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:197:13: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:198:16: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:199:15: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:200:14: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:201:13: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:206:13: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:207:14: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:208:13: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:209:14: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:210:13: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:211:14: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:212:13: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:213:14: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:214:13: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:220:18: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:222:13: W0108: Lambda may not be necessary (unnecessary-lambda)
+pendulum/formatting/formatter.py:229:4: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:260:4: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:260:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+pendulum/formatting/formatter.py:306:4: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:322:8: R1705: Unnecessary "elif" after "return" (no-else-return)
+pendulum/formatting/formatter.py:306:4: R0911: Too many return statements (13/6) (too-many-return-statements)
+pendulum/formatting/formatter.py:306:4: R0912: Too many branches (15/12) (too-many-branches)
+pendulum/formatting/formatter.py:451:16: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:453:16: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:455:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:458:16: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:468:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:476:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:481:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:482:12: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:494:12: C0103: Variable name "t" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:503:12: C0103: Variable name "pm" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:410:4: R0912: Too many branches (22/12) (too-many-branches)
+pendulum/formatting/formatter.py:410:4: R0915: Too many statements (62/50) (too-many-statements)
+pendulum/formatting/formatter.py:528:4: C0103: Argument name "m" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:547:13: C0122: Comparison should be token == 'Q' (misplaced-comparison-constant)
+pendulum/formatting/formatter.py:573:23: R1719: The if expression can be replaced with 'bool(test)' (simplifiable-if-expression)
+pendulum/formatting/formatter.py:574:12: C0103: Variable name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:577:20: C0103: Variable name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/formatting/formatter.py:537:4: R0912: Too many branches (21/12) (too-many-branches)
+pendulum/formatting/formatter.py:643:8: R1705: Unnecessary "elif" after "return" (no-else-return)
+pendulum/formatting/formatter.py:7:0: W0611: Unused import typing (unused-import)
+pendulum/formatting/formatter.py:7:0: C0411: standard import "import typing" should be placed before "import pendulum" (wrong-import-order)
+************* Module pendulum.locales.locale
+pendulum/locales/locale.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/locale.py:25:4: C0111: Missing method docstring (missing-docstring)
+pendulum/locales/locale.py:42:8: C0103: Variable name "m" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/locales/locale.py:49:4: C0111: Missing method docstring (missing-docstring)
+pendulum/locales/locale.py:50:8: C0103: Variable name "m" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/locales/locale.py:51:8: R1705: Unnecessary "else" after "return" (no-else-return)
+pendulum/locales/locale.py:56:4: C0111: Missing method docstring (missing-docstring)
+pendulum/locales/locale.py:84:4: C0111: Missing method docstring (missing-docstring)
+pendulum/locales/locale.py:92:4: C0111: Missing method docstring (missing-docstring)
+************* Module pendulum.locales.da.custom
+pendulum/locales/da/custom.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/da/custom.py:6:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/da/custom.py:8:0: C0103: Constant name "translations" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.locales.da.locale
+pendulum/locales/da/locale.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/da/locale.py:8:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/da/locale.py:10:0: C0413: Import "from .custom import translations as custom_translations" should be placed at the top of the module (wrong-import-position)
+pendulum/locales/da/locale.py:13:0: C0103: Constant name "locale" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/locales/da/locale.py:16:9: R0124: Redundant comparison - n == n (comparison-with-itself)
+pendulum/locales/da/locale.py:17:18: R0124: Redundant comparison - 0 == 0 (comparison-with-itself)
+pendulum/locales/da/locale.py:17:31: R0124: Redundant comparison - 0 == 0 (comparison-with-itself)
+pendulum/locales/da/locale.py:17:47: R0124: Redundant comparison - n == n (comparison-with-itself)
+pendulum/locales/da/locale.py:17:59: R1714: Consider merging these comparisons with "in" to 'n in (0, 1)' (consider-using-in)
+************* Module pendulum.locales.de.custom
+pendulum/locales/de/custom.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/de/custom.py:6:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/de/custom.py:8:0: C0103: Constant name "translations" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.locales.de.locale
+pendulum/locales/de/locale.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/de/locale.py:8:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/de/locale.py:10:0: C0413: Import "from .custom import translations as custom_translations" should be placed at the top of the module (wrong-import-position)
+pendulum/locales/de/locale.py:13:0: C0103: Constant name "locale" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/locales/de/locale.py:15:9: R0124: Redundant comparison - n == n (comparison-with-itself)
+pendulum/locales/de/locale.py:15:37: R0124: Redundant comparison - 0 == 0 (comparison-with-itself)
+pendulum/locales/de/locale.py:15:50: R0124: Redundant comparison - 0 == 0 (comparison-with-itself)
+************* Module pendulum.locales.en.custom
+pendulum/locales/en/custom.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/en/custom.py:6:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/en/custom.py:8:0: C0103: Constant name "translations" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.locales.en.locale
+pendulum/locales/en/locale.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/en/locale.py:8:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/en/locale.py:10:0: C0413: Import "from .custom import translations as custom_translations" should be placed at the top of the module (wrong-import-position)
+pendulum/locales/en/locale.py:13:0: C0103: Constant name "locale" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/locales/en/locale.py:15:9: R0124: Redundant comparison - n == n (comparison-with-itself)
+pendulum/locales/en/locale.py:15:37: R0124: Redundant comparison - 0 == 0 (comparison-with-itself)
+pendulum/locales/en/locale.py:15:50: R0124: Redundant comparison - 0 == 0 (comparison-with-itself)
+************* Module pendulum.locales.es.custom
+pendulum/locales/es/custom.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/es/custom.py:6:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/es/custom.py:8:0: C0103: Constant name "translations" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.locales.es.locale
+pendulum/locales/es/locale.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/es/locale.py:8:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/es/locale.py:10:0: C0413: Import "from .custom import translations as custom_translations" should be placed at the top of the module (wrong-import-position)
+pendulum/locales/es/locale.py:13:0: C0103: Constant name "locale" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/locales/es/locale.py:14:34: R0124: Redundant comparison - n == n (comparison-with-itself)
+************* Module pendulum.locales.fa.custom
+pendulum/locales/fa/custom.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/fa/custom.py:6:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/fa/custom.py:8:0: C0103: Constant name "translations" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.locales.fa.locale
+pendulum/locales/fa/locale.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/fa/locale.py:8:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/fa/locale.py:10:0: C0413: Import "from .custom import translations as custom_translations" should be placed at the top of the module (wrong-import-position)
+pendulum/locales/fa/locale.py:13:0: C0103: Constant name "locale" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/locales/fa/locale.py:15:9: R0124: Redundant comparison - n == n (comparison-with-itself)
+pendulum/locales/fa/locale.py:15:36: R0124: Redundant comparison - n == n (comparison-with-itself)
+************* Module pendulum.locales.fo.custom
+pendulum/locales/fo/custom.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/fo/custom.py:6:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/fo/custom.py:8:0: C0103: Constant name "translations" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.locales.fo.locale
+pendulum/locales/fo/locale.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/fo/locale.py:8:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/fo/locale.py:10:0: C0413: Import "from .custom import translations as custom_translations" should be placed at the top of the module (wrong-import-position)
+pendulum/locales/fo/locale.py:13:0: C0103: Constant name "locale" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/locales/fo/locale.py:14:34: R0124: Redundant comparison - n == n (comparison-with-itself)
+************* Module pendulum.locales.fr.custom
+pendulum/locales/fr/custom.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/fr/custom.py:6:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/fr/custom.py:8:0: C0103: Constant name "translations" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.locales.fr.locale
+pendulum/locales/fr/locale.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/fr/locale.py:8:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/fr/locale.py:10:0: C0413: Import "from .custom import translations as custom_translations" should be placed at the top of the module (wrong-import-position)
+pendulum/locales/fr/locale.py:13:0: C0103: Constant name "locale" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/locales/fr/locale.py:14:34: R0124: Redundant comparison - n == n (comparison-with-itself)
+pendulum/locales/fr/locale.py:14:46: R1714: Consider merging these comparisons with "in" to 'n in (0, 1)' (consider-using-in)
+pendulum/locales/fr/locale.py:15:35: R0124: Redundant comparison - n == n (comparison-with-itself)
+************* Module pendulum.locales.ko.custom
+pendulum/locales/ko/custom.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/ko/custom.py:6:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/ko/custom.py:8:0: C0103: Constant name "translations" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.locales.ko.locale
+pendulum/locales/ko/locale.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/ko/locale.py:8:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/ko/locale.py:10:0: C0413: Import "from .custom import translations as custom_translations" should be placed at the top of the module (wrong-import-position)
+pendulum/locales/ko/locale.py:13:0: C0103: Constant name "locale" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.locales.lt.custom
+pendulum/locales/lt/custom.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/lt/custom.py:6:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/lt/custom.py:8:0: C0103: Constant name "translations" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.locales.lt.locale
+pendulum/locales/lt/locale.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/lt/locale.py:8:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/lt/locale.py:10:0: C0413: Import "from .custom import translations as custom_translations" should be placed at the top of the module (wrong-import-position)
+pendulum/locales/lt/locale.py:13:0: C0103: Constant name "locale" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/locales/lt/locale.py:20:13: R0124: Redundant comparison - 0 == 0 (comparison-with-itself)
+pendulum/locales/lt/locale.py:20:26: R0124: Redundant comparison - 0 == 0 (comparison-with-itself)
+************* Module pendulum.locales.pt_br.custom
+pendulum/locales/pt_br/custom.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/pt_br/custom.py:6:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/pt_br/custom.py:8:0: C0103: Constant name "translations" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.locales.pt_br.locale
+pendulum/locales/pt_br/locale.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/pt_br/locale.py:8:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/pt_br/locale.py:10:0: C0413: Import "from .custom import translations as custom_translations" should be placed at the top of the module (wrong-import-position)
+pendulum/locales/pt_br/locale.py:13:0: C0103: Constant name "locale" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/locales/pt_br/locale.py:15:9: R0124: Redundant comparison - n == n (comparison-with-itself)
+pendulum/locales/pt_br/locale.py:15:22: R1716: Simplify chained comparison between the operands (chained-comparison)
+pendulum/locales/pt_br/locale.py:15:53: R0124: Redundant comparison - n == n (comparison-with-itself)
+************* Module pendulum.locales.zh.custom
+pendulum/locales/zh/custom.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/zh/custom.py:6:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/zh/custom.py:8:0: C0103: Constant name "translations" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.locales.zh.locale
+pendulum/locales/zh/locale.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/locales/zh/locale.py:8:-1: W0105: String statement has no effect (pointless-string-statement)
+pendulum/locales/zh/locale.py:10:0: C0413: Import "from .custom import translations as custom_translations" should be placed at the top of the module (wrong-import-position)
+pendulum/locales/zh/locale.py:13:0: C0103: Constant name "locale" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.mixins.default
+pendulum/mixins/default.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/mixins/default.py:3:0: C0103: Constant name "_formatter" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/mixins/default.py:6:0: C0111: Missing class docstring (missing-docstring)
+pendulum/mixins/default.py:6:0: R0205: Class 'FormattableMixing' inherits from object, can be safely removed from bases in python3 (useless-object-inheritance)
+pendulum/mixins/default.py:33:11: C1801: Do not use `len(SEQUENCE)` to determine if a sequence is empty (len-as-condition)
+pendulum/mixins/default.py:35:23: E1101: Instance of 'FormattableMixing' has no 'strftime' member (no-member)
+pendulum/mixins/default.py:42:15: E1101: Instance of 'FormattableMixing' has no 'isoformat' member (no-member)
+************* Module pendulum.parsing.exceptions
+pendulum/parsing/exceptions/__init__.py:1:0: C0111: Missing module docstring (missing-docstring)
+************* Module pendulum.tz.exceptions
+pendulum/tz/exceptions.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/tz/exceptions.py:6:0: C0111: Missing class docstring (missing-docstring)
+pendulum/tz/exceptions.py:16:0: C0111: Missing class docstring (missing-docstring)
+************* Module pendulum.parsing.__init__
+pendulum/parsing/__init__.py:30:0: C0301: Line too long (106/100) (line-too-long)
+pendulum/parsing/__init__.py:20:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/__init__.py:22:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/__init__.py:23:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/__init__.py:29:0: W1401: Anomalous backslash in string: '\ '. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/__init__.py:30:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/__init__.py:30:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/__init__.py:30:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/__init__.py:34:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+************* Module pendulum.parsing
+pendulum/parsing/__init__.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/parsing/__init__.py:78:4: R1705: Unnecessary "elif" after "return" (no-else-return)
+pendulum/parsing/__init__.py:120:8: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/parsing/__init__.py:138:4: C0103: Variable name "m" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+************* Module pendulum.tz
+pendulum/tz/__init__.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/tz/__init__.py:17:0: C0103: Constant name "timezones" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/tz/__init__.py:20:0: C0103: Constant name "_tz_cache" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/tz/__init__.py:36:4: C0103: Variable name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/__init__.py:49:4: C0103: Variable name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/__init__.py:3:0: C0411: standard import "from typing import Union" should be placed before "import pytzdata" (wrong-import-order)
+************* Module pendulum.tz.data.windows
+pendulum/tz/data/windows.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/tz/data/windows.py:1:0: C0103: Constant name "windows_timezones" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+************* Module pendulum.parsing.iso8601
+pendulum/parsing/iso8601.py:42:0: C0301: Line too long (128/100) (line-too-long)
+pendulum/parsing/iso8601.py:306:0: C0325: Unnecessary parens after 'not' keyword (superfluous-parens)
+pendulum/parsing/iso8601.py:353:0: C0325: Unnecessary parens after 'not' keyword (superfluous-parens)
+pendulum/parsing/iso8601.py:23:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:25:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:26:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:31:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:34:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:36:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:41:0: W1401: Anomalous backslash in string: '\ '. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:42:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:42:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:42:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:46:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:50:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:50:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:62:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:62:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:65:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:65:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:66:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:66:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:67:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:67:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:71:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:71:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:72:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:72:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:73:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:73:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/parsing/iso8601.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/parsing/iso8601.py:80:0: R0914: Too many local variables (28/15) (too-many-locals)
+pendulum/parsing/iso8601.py:93:4: C0103: Variable name "m" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/parsing/iso8601.py:108:4: R1702: Too many nested blocks (8/5) (too-many-nested-blocks)
+pendulum/parsing/iso8601.py:108:4: R1702: Too many nested blocks (6/5) (too-many-nested-blocks)
+pendulum/parsing/iso8601.py:229:8: C0103: Variable name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/parsing/iso8601.py:234:27: R1719: The if expression can be replaced with 'bool(test)' (simplifiable-if-expression)
+pendulum/parsing/iso8601.py:235:16: C0103: Variable name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/parsing/iso8601.py:238:24: C0103: Variable name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/parsing/iso8601.py:80:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+pendulum/parsing/iso8601.py:80:0: R0912: Too many branches (39/12) (too-many-branches)
+pendulum/parsing/iso8601.py:80:0: R0915: Too many statements (104/50) (too-many-statements)
+pendulum/parsing/iso8601.py:260:0: R0914: Too many local variables (29/15) (too-many-locals)
+pendulum/parsing/iso8601.py:261:4: C0103: Variable name "m" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/parsing/iso8601.py:260:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+pendulum/parsing/iso8601.py:260:0: W0613: Unused argument 'options' (unused-argument)
+pendulum/parsing/iso8601.py:260:0: R0912: Too many branches (33/12) (too-many-branches)
+pendulum/parsing/iso8601.py:260:0: R0915: Too many statements (101/50) (too-many-statements)
+pendulum/parsing/iso8601.py:443:4: C0103: Variable name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+************* Module pendulum.tz.local_timezone
+pendulum/tz/local_timezone.py:180:0: W1401: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/local_timezone.py:180:0: W1401: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/local_timezone.py:180:0: W1401: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/local_timezone.py:181:0: W1401: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/local_timezone.py:181:0: W1401: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/local_timezone.py:181:0: W1401: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/local_timezone.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/tz/local_timezone.py:20:0: C0103: Constant name "_mock_local_timezone" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/tz/local_timezone.py:21:0: C0103: Constant name "_local_timezone" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/tz/local_timezone.py:24:0: C0111: Missing function docstring (missing-docstring)
+pendulum/tz/local_timezone.py:25:4: C0103: Constant name "_local_timezone" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/tz/local_timezone.py:25:4: W0603: Using the global statement (global-statement)
+pendulum/tz/local_timezone.py:31:8: C0103: Variable name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/local_timezone.py:39:4: C0103: Constant name "_mock_local_timezone" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/tz/local_timezone.py:39:4: W0603: Using the global statement (global-statement)
+pendulum/tz/local_timezone.py:45:0: C0111: Missing function docstring (missing-docstring)
+pendulum/tz/local_timezone.py:54:4: R1705: Unnecessary "elif" after "return" (no-else-return)
+pendulum/tz/local_timezone.py:62:0: R0914: Too many local variables (16/15) (too-many-locals)
+pendulum/tz/local_timezone.py:108:12: W0621: Redefining name 'i' from outer scope (line 102) (redefined-outer-name)
+pendulum/tz/local_timezone.py:149:0: R0912: Too many branches (18/12) (too-many-branches)
+pendulum/tz/local_timezone.py:252:4: W0706: The except handler raises immediately (try-except-raise)
+************* Module pendulum.tz.timezone
+pendulum/tz/timezone.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/tz/timezone.py:30:8: C0103: Variable name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:40:4: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:68:4: R0913: Too many arguments (8/5) (too-many-arguments)
+pendulum/tz/timezone.py:84:4: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:84:4: R0912: Too many branches (16/12) (too-many-branches)
+pendulum/tz/timezone.py:137:4: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:149:25: W0212: Access to a protected member _lookup_transition of a client class (protected-access)
+pendulum/tz/timezone.py:181:8: C0103: Variable name "lo" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:181:12: C0103: Variable name "hi" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:184:12: R1705: Unnecessary "elif" after "return" (no-else-return)
+pendulum/tz/timezone.py:187:16: C0103: Variable name "hi" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:189:16: C0103: Variable name "lo" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:195:20: C0103: Variable name "hi" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:197:20: C0103: Variable name "lo" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:202:20: C0103: Variable name "hi" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:204:20: C0103: Variable name "lo" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:208:12: C0103: Variable name "lo" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:178:4: R0912: Too many branches (13/12) (too-many-branches)
+pendulum/tz/timezone.py:214:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+pendulum/tz/timezone.py:224:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+pendulum/tz/timezone.py:237:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+pendulum/tz/timezone.py:245:4: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:287:0: C0111: Missing class docstring (missing-docstring)
+pendulum/tz/timezone.py:288:4: W0231: __init__ method from base class 'Timezone' is not called (super-init-not-called)
+pendulum/tz/timezone.py:305:4: W0221: Parameters differ from overridden '_normalize' method (arguments-differ)
+pendulum/tz/timezone.py:354:0: C0111: Missing class docstring (missing-docstring)
+pendulum/tz/timezone.py:355:4: W0231: __init__ method from base class 'Timezone' is not called (super-init-not-called)
+pendulum/tz/timezone.py:356:8: C0103: Variable name "tz" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/timezone.py:4:0: W0611: Unused Optional imported from typing (unused-import)
+pendulum/tz/timezone.py:3:0: C0411: standard import "from datetime import datetime, timedelta, tzinfo" should be placed before "import pendulum" (wrong-import-order)
+pendulum/tz/timezone.py:4:0: C0411: standard import "from typing import Optional, Union" should be placed before "import pendulum" (wrong-import-order)
+************* Module pendulum.tz.zoneinfo.exceptions
+pendulum/tz/zoneinfo/exceptions.py:1:0: C0111: Missing module docstring (missing-docstring)
+************* Module pendulum.tz.zoneinfo.transition
+pendulum/tz/zoneinfo/transition.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/tz/zoneinfo/transition.py:7:0: C0111: Missing class docstring (missing-docstring)
+pendulum/tz/zoneinfo/transition.py:7:0: R0902: Too many instance attributes (8/7) (too-many-instance-attributes)
+pendulum/tz/zoneinfo/transition.py:34:4: C0103: Attribute name "at" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/transition.py:42:4: C0103: Attribute name "to" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/transition.py:2:0: W0611: Unused Union imported from typing (unused-import)
+************* Module pendulum.tz.zoneinfo.posix_timezone
+pendulum/tz/zoneinfo/posix_timezone.py:15:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:16:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:16:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:16:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:18:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:19:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:19:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:19:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:23:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:23:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:23:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:23:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:24:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:24:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:24:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:28:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:28:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:28:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:28:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:29:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:29:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:29:0: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+pendulum/tz/zoneinfo/posix_timezone.py:13:0: C0103: Constant name "_spec" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/tz/zoneinfo/posix_timezone.py:45:4: C0103: Variable name "m" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/posix_timezone.py:128:0: C0111: Missing class docstring (missing-docstring)
+pendulum/tz/zoneinfo/posix_timezone.py:128:0: R0205: Class 'PosixTransition' inherits from object, can be safely removed from bases in python3 (useless-object-inheritance)
+pendulum/tz/zoneinfo/posix_timezone.py:140:0: C0111: Missing class docstring (missing-docstring)
+pendulum/tz/zoneinfo/posix_timezone.py:161:0: C0111: Missing class docstring (missing-docstring)
+pendulum/tz/zoneinfo/posix_timezone.py:180:0: C0111: Missing class docstring (missing-docstring)
+pendulum/tz/zoneinfo/posix_timezone.py:230:4: R0913: Too many arguments (7/5) (too-many-arguments)
+************* Module pendulum.tz.zoneinfo.timezone
+pendulum/tz/zoneinfo/timezone.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/tz/zoneinfo/timezone.py:12:0: C0111: Missing class docstring (missing-docstring)
+pendulum/tz/zoneinfo/timezone.py:33:4: R0914: Too many local variables (21/15) (too-many-locals)
+pendulum/tz/zoneinfo/timezone.py:85:12: C0103: Variable name "tr" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/timezone.py:98:8: C0103: Variable name "tr" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/timezone.py:105:12: C0103: Variable name "tr" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/timezone.py:109:12: C0103: Variable name "tr" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/timezone.py:33:4: R0915: Too many statements (53/50) (too-many-statements)
+pendulum/tz/zoneinfo/timezone.py:2:0: W0611: Unused Union imported from typing (unused-import)
+pendulum/tz/zoneinfo/timezone.py:7:0: W0611: Unused PosixTimezone imported from posix_timezone (unused-import)
+pendulum/tz/zoneinfo/timezone.py:9:0: W0611: Unused TransitionType imported from transition_type (unused-import)
+************* Module pendulum.tz.zoneinfo.reader
+pendulum/tz/zoneinfo/reader.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/tz/zoneinfo/reader.py:21:0: C0103: Class name "header" doesn't conform to '[A-Z_][a-zA-Z0-9]+$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:57:38: C0103: Variable name "fd" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:60:4: C0103: Argument name "fd" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:78:4: C0103: Argument name "fd" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:139:4: C0103: Argument name "fd" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:158:4: C0103: Argument name "fd" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:158:4: C0103: Argument name "n" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:166:4: C0103: Argument name "fd" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:166:4: C0103: Argument name "n" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:174:4: C0103: Argument name "fd" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:174:4: C0103: Argument name "n" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:179:4: C0103: Argument name "fd" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:179:4: C0103: Argument name "n" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:190:4: C0103: Argument name "fd" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:190:4: C0103: Argument name "n" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:196:12: W0612: Unused variable 'offset' (unused-variable)
+pendulum/tz/zoneinfo/reader.py:196:20: W0612: Unused variable 'is_dst' (unused-variable)
+pendulum/tz/zoneinfo/reader.py:203:4: C0103: Argument name "fd" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:204:8: C0103: Variable name "s" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:209:8: C0103: Variable name "s" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/tz/zoneinfo/reader.py:4:0: C0411: standard import "from collections import namedtuple" should be placed before "import pytzdata" (wrong-import-order)
+pendulum/tz/zoneinfo/reader.py:5:0: C0411: standard import "from struct import unpack" should be placed before "import pytzdata" (wrong-import-order)
+pendulum/tz/zoneinfo/reader.py:6:0: C0411: standard import "from typing import List, Dict" should be placed before "import pytzdata" (wrong-import-order)
+************* Module pendulum.tz.zoneinfo.transition_type
+pendulum/tz/zoneinfo/transition_type.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/tz/zoneinfo/transition_type.py:7:0: C0111: Missing class docstring (missing-docstring)
+pendulum/tz/zoneinfo/transition_type.py:20:4: C0111: Missing method docstring (missing-docstring)
+************* Module pendulum.tz.zoneinfo
+pendulum/tz/zoneinfo/__init__.py:1:0: C0111: Missing module docstring (missing-docstring)
+************* Module pendulum.utils._compat
+pendulum/utils/_compat.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/utils/_compat.py:11:4: C0103: Constant name "long" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/utils/_compat.py:12:4: C0103: Constant name "unicode" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/utils/_compat.py:13:4: C0103: Constant name "basestring" doesn't conform to '(([A-Z_][A-Z0-9_]*)|(__.*__))$' pattern (invalid-name)
+pendulum/utils/_compat.py:15:4: C0103: Class name "long" doesn't conform to '[A-Z_][a-zA-Z0-9]+$' pattern (invalid-name)
+pendulum/utils/_compat.py:16:4: C0103: Class name "unicode" doesn't conform to '[A-Z_][a-zA-Z0-9]+$' pattern (invalid-name)
+pendulum/utils/_compat.py:17:4: C0103: Class name "basestring" doesn't conform to '[A-Z_][a-zA-Z0-9]+$' pattern (invalid-name)
+pendulum/utils/_compat.py:20:0: C0111: Missing function docstring (missing-docstring)
+pendulum/utils/_compat.py:38:0: C0111: Missing function docstring (missing-docstring)
+************* Module pendulum._extensions.helpers
+pendulum/_extensions/helpers.py:1:0: C0111: Missing module docstring (missing-docstring)
+pendulum/_extensions/helpers.py:25:0: C0111: Missing class docstring (missing-docstring)
+pendulum/_extensions/helpers.py:56:4: C0103: Function name "p" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/_extensions/helpers.py:56:4: C0103: Argument name "y" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/_extensions/helpers.py:62:0: C0111: Missing function docstring (missing-docstring)
+pendulum/_extensions/helpers.py:66:4: C0103: Variable name "w" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/_extensions/helpers.py:76:8: C0103: Variable name "w" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/_extensions/helpers.py:88:0: C0103: Argument name "dt" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/_extensions/helpers.py:88:0: C0111: Missing function docstring (missing-docstring)
+pendulum/_extensions/helpers.py:185:0: C0103: Argument name "d1" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/_extensions/helpers.py:185:0: C0103: Argument name "d2" doesn't conform to '[a-z_][a-z0-9_]{2,40}$' pattern (invalid-name)
+pendulum/_extensions/helpers.py:185:0: R0914: Too many local variables (23/15) (too-many-locals)
+pendulum/_extensions/helpers.py:185:0: R0912: Too many branches (27/12) (too-many-branches)
+pendulum/_extensions/helpers.py:185:0: R0915: Too many statements (87/50) (too-many-statements)
+
+
+Report
+======
+3331 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |71     |71         |=          |23.94       |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |33     |33         |=          |51.52       |12.12    |
++---------+-------+-----------+-----------+------------+---------+
+|method   |372    |372        |=          |96.24       |0.54     |
++---------+-------+-----------+-----------+------------+---------+
+|function |67     |67         |=          |89.55       |1.49     |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+External dependencies
+---------------------
+::
+
+    dateutil 
+      \-parser (pendulum.parsing)
+    pendulum (pendulum.tz.timezone)
+      \-_extensions 
+      | \-_helpers (pendulum.helpers)
+      | \-helpers (pendulum.helpers)
+      \-constants (pendulum._extensions.helpers)
+      \-date (pendulum.datetime)
+      \-datetime (pendulum.time)
+      \-duration (pendulum.parsing.iso8601)
+      \-exceptions (pendulum.datetime)
+      \-formatting 
+      | \-Formatter (pendulum.mixins.default)
+      | \-difference_formatter (pendulum.helpers)
+      \-helpers (pendulum.tz.zoneinfo.timezone)
+      \-locales 
+      | \-da 
+      | | \-custom (pendulum.locales.da.locale)
+      | \-de 
+      | | \-custom (pendulum.locales.de.locale)
+      | \-en 
+      | | \-custom (pendulum.locales.en.locale)
+      | \-es 
+      | | \-custom (pendulum.locales.es.locale)
+      | \-fa 
+      | | \-custom (pendulum.locales.fa.locale)
+      | \-fo 
+      | | \-custom (pendulum.locales.fo.locale)
+      | \-fr 
+      | | \-custom (pendulum.locales.fr.locale)
+      | \-ko 
+      | | \-custom (pendulum.locales.ko.locale)
+      | \-locale (pendulum.formatting.formatter)
+      | \-lt 
+      | | \-custom (pendulum.locales.lt.locale)
+      | \-pt_br 
+      | | \-custom (pendulum.locales.pt_br.locale)
+      | \-zh 
+      |   \-custom (pendulum.locales.zh.locale)
+      \-mixins 
+      | \-default (pendulum.time)
+      \-parsing (pendulum.parser)
+      | \-exceptions (pendulum.parsing.iso8601)
+      \-period (pendulum.datetime)
+      \-time (pendulum.datetime)
+      \-tz (pendulum.datetime)
+      | \-data 
+      | | \-windows (pendulum.tz.local_timezone)
+      | \-exceptions (pendulum.tz.timezone)
+      | \-timezone (pendulum.tz.local_timezone)
+      | \-zoneinfo (pendulum.tz.timezone)
+      |   \-exceptions (pendulum.tz.zoneinfo.reader)
+      |   \-posix_timezone (pendulum.tz.zoneinfo.reader)
+      |   \-transition (pendulum.tz.zoneinfo.reader)
+      |   \-transition_type (pendulum.tz.zoneinfo.reader)
+      \-utils 
+        \-_compat (pendulum.tz.zoneinfo.transition_type)
+    pytzdata (pendulum.tz.zoneinfo.reader)
+      \-exceptions (pendulum.tz.zoneinfo.reader)
+
+
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |5354   |53.50 |5354     |=          |
++----------+-------+------+---------+-----------+
+|docstring |2817   |28.15 |2817     |=          |
++----------+-------+------+---------+-----------+
+|comment   |276    |2.76  |276      |=          |
++----------+-------+------+---------+-----------+
+|empty     |1561   |15.60 |1561     |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |=          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |367    |367      |=          |
++-----------+-------+---------+-----------+
+|refactor   |90     |90       |=          |
++-----------+-------+---------+-----------+
+|warning    |236    |236      |=          |
++-----------+-------+---------+-----------+
+|error      |2      |2        |=          |
++-----------+-------+---------+-----------+
+
+
+
+% errors / warnings by module
+-----------------------------
+
++-----------------------------------------+-------+--------+---------+-----------+
+|module                                   |error  |warning |refactor |convention |
++=========================================+=======+========+=========+===========+
+|pendulum.mixins.default                  |100.00 |0.00    |1.11     |1.09       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.formatting.formatter            |0.00   |24.15   |10.00    |5.45       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.parsing.iso8601                 |0.00   |11.86   |12.22    |2.72       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.datetime                        |0.00   |10.59   |10.00    |11.99      |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.tz.zoneinfo.posix_timezone      |0.00   |9.32    |2.22     |1.63       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.duration                        |0.00   |8.47    |5.56     |8.72       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.helpers                         |0.00   |5.93    |1.11     |3.81       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.tz.local_timezone               |0.00   |4.24    |3.33     |2.18       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.date                            |0.00   |3.81    |1.11     |7.90       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.parsing.__init__                |0.00   |3.39    |1.11     |1.09       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.tz.timezone                     |0.00   |2.12    |7.78     |5.45       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.time                            |0.00   |1.69    |1.11     |1.91       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.period                          |0.00   |1.69    |1.11     |1.91       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.tz.zoneinfo.timezone            |0.00   |1.27    |2.22     |1.63       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.tz.zoneinfo.reader              |0.00   |0.85    |0.00     |5.99       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.da.locale               |0.00   |0.42    |5.56     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.__init__                        |0.00   |0.42    |4.44     |5.72       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.pt_br.locale            |0.00   |0.42    |3.33     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.fr.locale               |0.00   |0.42    |3.33     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.en.locale               |0.00   |0.42    |3.33     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.de.locale               |0.00   |0.42    |3.33     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.lt.locale               |0.00   |0.42    |2.22     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.fa.locale               |0.00   |0.42    |2.22     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.tz.zoneinfo.transition          |0.00   |0.42    |1.11     |1.09       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.fo.locale               |0.00   |0.42    |1.11     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.es.locale               |0.00   |0.42    |1.11     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.zh.locale               |0.00   |0.42    |0.00     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.ko.locale               |0.00   |0.42    |0.00     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.zh.custom               |0.00   |0.42    |0.00     |0.54       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.pt_br.custom            |0.00   |0.42    |0.00     |0.54       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.lt.custom               |0.00   |0.42    |0.00     |0.54       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.ko.custom               |0.00   |0.42    |0.00     |0.54       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.fr.custom               |0.00   |0.42    |0.00     |0.54       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.fo.custom               |0.00   |0.42    |0.00     |0.54       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.fa.custom               |0.00   |0.42    |0.00     |0.54       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.es.custom               |0.00   |0.42    |0.00     |0.54       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.en.custom               |0.00   |0.42    |0.00     |0.54       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.de.custom               |0.00   |0.42    |0.00     |0.54       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.da.custom               |0.00   |0.42    |0.00     |0.54       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.exceptions                      |0.00   |0.42    |0.00     |0.27       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum._extensions.helpers             |0.00   |0.00    |3.33     |3.00       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.formatting.difference_formatter |0.00   |0.00    |3.33     |0.27       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.locales.locale                  |0.00   |0.00    |1.11     |2.18       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.parser                          |0.00   |0.00    |1.11     |1.09       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.utils._compat                   |0.00   |0.00    |0.00     |2.45       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.tz.__init__                     |0.00   |0.00    |0.00     |1.63       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.tz.zoneinfo.transition_type     |0.00   |0.00    |0.00     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.tz.exceptions                   |0.00   |0.00    |0.00     |0.82       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.tz.data.windows                 |0.00   |0.00    |0.00     |0.54       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.tz.zoneinfo.exceptions          |0.00   |0.00    |0.00     |0.27       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.tz.zoneinfo.__init__            |0.00   |0.00    |0.00     |0.27       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.parsing.exceptions.__init__     |0.00   |0.00    |0.00     |0.27       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.formatting.__init__             |0.00   |0.00    |0.00     |0.27       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.constants                       |0.00   |0.00    |0.00     |0.27       |
++-----------------------------------------+-------+--------+---------+-----------+
+|pendulum.__version__                     |0.00   |0.00    |0.00     |0.27       |
++-----------------------------------------+-------+--------+---------+-----------+
+
+
+
+Messages
+--------
+
++-------------------------------+------------+
+|message id                     |occurrences |
++===============================+============+
+|invalid-name                   |241         |
++-------------------------------+------------+
+|anomalous-backslash-in-string  |99          |
++-------------------------------+------------+
+|missing-docstring              |91          |
++-------------------------------+------------+
+|protected-access               |38          |
++-------------------------------+------------+
+|pointless-string-statement     |24          |
++-------------------------------+------------+
+|unnecessary-lambda             |20          |
++-------------------------------+------------+
+|comparison-with-itself         |20          |
++-------------------------------+------------+
+|wrong-import-order             |17          |
++-------------------------------+------------+
+|unused-import                  |15          |
++-------------------------------+------------+
+|too-many-arguments             |15          |
++-------------------------------+------------+
+|arguments-differ               |14          |
++-------------------------------+------------+
+|wrong-import-position          |11          |
++-------------------------------+------------+
+|too-many-branches              |11          |
++-------------------------------+------------+
+|unused-variable                |9           |
++-------------------------------+------------+
+|inconsistent-return-statements |9           |
++-------------------------------+------------+
+|no-else-return                 |8           |
++-------------------------------+------------+
+|too-many-statements            |6           |
++-------------------------------+------------+
+|too-many-locals                |5           |
++-------------------------------+------------+
+|useless-object-inheritance     |3           |
++-------------------------------+------------+
+|unused-argument                |3           |
++-------------------------------+------------+
+|too-many-public-methods        |3           |
++-------------------------------+------------+
+|redefined-outer-name           |3           |
++-------------------------------+------------+
+|redefined-builtin              |3           |
++-------------------------------+------------+
+|too-many-return-statements     |2           |
++-------------------------------+------------+
+|too-many-nested-blocks         |2           |
++-------------------------------+------------+
+|superfluous-parens             |2           |
++-------------------------------+------------+
+|super-init-not-called          |2           |
++-------------------------------+------------+
+|simplifiable-if-expression     |2           |
++-------------------------------+------------+
+|signature-differs              |2           |
++-------------------------------+------------+
+|no-member                      |2           |
++-------------------------------+------------+
+|line-too-long                  |2           |
++-------------------------------+------------+
+|global-statement               |2           |
++-------------------------------+------------+
+|consider-using-in              |2           |
++-------------------------------+------------+
+|unnecessary-pass               |1           |
++-------------------------------+------------+
+|try-except-raise               |1           |
++-------------------------------+------------+
+|too-many-lines                 |1           |
++-------------------------------+------------+
+|too-many-instance-attributes   |1           |
++-------------------------------+------------+
+|misplaced-comparison-constant  |1           |
++-------------------------------+------------+
+|len-as-condition               |1           |
++-------------------------------+------------+
+|chained-comparison             |1           |
++-------------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 7.89/10 (previous run: 7.89/10, +0.00)
+
