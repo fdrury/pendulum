@@ -1,4 +1,4 @@
-Pendulum
+Pendulum 
 ########
 
 .. image:: https://img.shields.io/pypi/v/pendulum.svg
